@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_REPO = 'https://github.com/your-repo.git' // Change this to your repository URL
+        GIT_REPO = 'https://github.com/Amaggo-ai/jenkinsproject.git' // Change this to your repository URL
         BRANCH = 'main' // Change this if using a different branch
     }
 
